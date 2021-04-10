@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2805mm"
+   height="1253mm"
+   viewBox="-1 -1252 2805 1253"
+   version="1.1"
+   id="svg18"
+   sodipodi:docname="bagkanal-top.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview20"
+     showgrid="false"
+     inkscape:zoom="0.78565616"
+     inkscape:cx="567.06142"
+     inkscape:cy="283.59685"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg18"
+     inkscape:document-rotation="0"
+     inkscape:document-units="mm" />
+  <title
+     id="title14">OpenSCAD Model</title>
+  <circle
+     style="fill:none;fill-opacity:0.0535715;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+     id="path3099"
+     cx="149.035"
+     cy="-1196.0153"
+     r="50" />
+  <path
+     d="m 8.0693,-1104.93 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 H 134 v 3 h 6.07 v -3 H 146 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.07 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.0701 v -3 h 5.93 v 3 h 6.07 v -3 h 5.9301 v 3 h 6.0696 l 4e-4,-15.2857 h 3 v -6.3557 h -3 v -6.2157 h 3 v -6.3558 h -3 v -6.2157 h 3 v -6.3557 h -3 v -6.2157 h 3 v -6.3557 h -3 v -6.2157 h 3 v -6.3557 h -3 v -6.2157 h 3 v -6.3558 h -3 v -6.2157 h 3 V -1199 h -3 v -6.216 h 3 v -6.355 h -3 v -6.216 h 3 v -6.356 h -3 v -6.216 h 3 v -6.355 h -3 v -6.216 h 3 v -9.07 h -9.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.07 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 H 146 v 3 h -5.93 v -3 H 134 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -6.0701 v 3 h -5.93 v -3 h -6.07 v 3 h -5.9301 v -3 h -6.07 v 3 h -5.93 v -3 h -9.0701 v 9.07 h 3 v 6.216 h -3 v 6.355 h 3 v 6.216 h -3 v 6.356 h 3 v 6.216 h -3 v 6.355 h 3 v 6.216 h -3 v 6.3557 h 3 v 6.2153 l -3,4e-4 v 6.3557 h 3 v 6.2159 h -3 v 6.3556 h 3 v 6.2154 l -3,3e-4 v 6.3557 h 3 v 6.216 l -3,-3e-4 v 6.3557 l 3,-4e-4 v 6.216 l -3,10e-5 v 6.3558 l 3,10e-5 v 6.216 l -3,-4e-4 v 6.3557 l 3,-3e-4 3e-4,15.286 h 6.0698 z"
+     id="path1418-3"
+     style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>

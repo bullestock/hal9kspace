@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2805mm"
+   height="1203mm"
+   viewBox="-1 -1202 2805 1203"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="bagkanal-side.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15, custom)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>OpenSCAD Model</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="51"
+     gridtolerance="51"
+     guidetolerance="51"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="0.16868718"
+     inkscape:cx="2649.3753"
+     inkscape:cy="283.59685"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6"
+     inkscape:document-rotation="0"
+     inkscape:document-units="mm" />
+  <title
+     id="title2">OpenSCAD Model</title>
+  <path
+     id="path3148"
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m 1099.065,-1051.9287 v -8.541 m 0,0 v -6.7463 h -3 v -6.355 m 0,0 h 3 v -6.216 h -3 v -6.356 m 0,0 h 3 v -6.216 h -3 v -6.355 h 3 v -5.979 h -3 v -6.2375 m 0,-0.3555 h 3 v -6.0222 h -3 v -6.5488 h 3 v -6.0665 h -3 v -6.5055 h 3 v -6.1098 h -3 v -6.2376 m 0,0 h 3 v -6.3777 h -3 v -6.4169 h 3 v -6.1984 h -3 v -6.3736 h 3.0625 l -0.062,-6.2417 h -3 v -6.2377 h 3 V -1193 h -3 v -9 h -9.07 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.94204 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 H 606.1 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 H 516 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 H 83.2 v -3 h -6.08 v 3 h -5.94 v -3 H 65.1 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 H 2 v 9 h -3 v 6.3776 h 3 v 6.2377 h -3 v 6.3776 h 3 v 6.2377 h -3 v 6.3777 h 3 v 6.2376 h -3 v 6.3776 h 3 v 6.2377 h -3 v 6.3776 h 3 v 6.2377 h -3 v 6.3777 h 3 v 6.2376 h -3 v 6.3798 h 3 v 8.9999 h 9.07 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 H 516 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.07996 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 m 10e-5,0 306.54694,49.9998"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+  <rect
+     style="fill:none;fill-opacity:0.0535715;stroke:#000000;stroke-width:0.394312;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3150"
+     width="290"
+     height="4"
+     x="142.8"
+     y="-1090.8134" />
+  <rect
+     style="fill:none;fill-opacity:0.0535715;stroke:#000000;stroke-width:0.394312;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3152"
+     width="290"
+     height="4"
+     x="455.00806"
+     y="-1090.8134" />
+  <rect
+     style="fill:none;fill-opacity:0.0535715;stroke:#000000;stroke-width:0.394312;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3154"
+     width="290"
+     height="4"
+     x="322.71664"
+     y="-1064.3552" />
+  <rect
+     style="fill:none;fill-opacity:0.0535715;stroke:#000000;stroke-width:0.394312;stroke-linecap:round;stroke-linejoin:round"
+     id="rect3156"
+     width="290"
+     height="4"
+     x="640.2168"
+     y="-1064.3552" />
+  <path
+     id="path3820"
+     style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     d="m -0.937485,-1090.8743 v 8.541 m 0,0 v 6.7462 h 3 v 6.355 m 0,0 h -3 v 6.2159 h 3 v 6.356 m 0,0 h -3 v 6.216 h 3 v 6.355 h -3 v 5.979 h 3 v 6.2375 m 0,0.3555 h -3 v 6.0222 h 3 v 6.5488 h -3 v 6.0665 h 3 v 6.5055 h -3 v 6.1098 h 3 v 6.23754 m 0,0 h -3 v 6.37767 h 3 v 6.41684 h -3 v 6.1984 h 3 v 6.3736 h -3.0625 l 0.062,6.2417 h 3 v 6.2377 h -3 v 6.3776 h 3 v 9 h 9.07 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942035 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 v -3 h 5.941 v 3 h 6.081 v -3 h 5.94101 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.082 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.08101 v -3 h 5.941 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.942 v 3 h 6.081 v -3 h 5.941 v 3 h 6.081 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08045 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.93997 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.09 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94001 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.95 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 6.08 v -3 h 5.94 v 3 h 9.07 v -9 h 3 v -6.3776 h -3 v -6.2377 h 3 v -6.3776 h -3 v -6.2377 h 3 v -6.3777 h -3 v -6.23754 h 3 v -6.37767 h -3 v -6.23754 h 3 v -6.3776 h -3 v -6.2377 h 3 v -6.3777 h -3 v -6.2376 h 3 v -6.3798 h -3 v -8.9999 h -9.07 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94001 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.09 v 3 h -5.93997 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.07996 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.95 v -3 h -6.08 v 3 h -5.94 v -3 h -6.08 v 3 h -5.94 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.942 v -3 h -6.081 v 3 h -5.941 v -3 h -6.081 v 3 h -5.941 v -3 h -6.082 m -10e-5,0 -306.546945,-49.9996"
+     sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
+</svg>
